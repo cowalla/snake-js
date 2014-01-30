@@ -1,0 +1,46 @@
+div {	display : inline-block;
+	background-color : black;
+	padding : 0px;
+	border : 2px solid white;
+	width : 16px;
+	height : 16px;
+	text-align: center;
+	vertical-align: middle;
+	box-sizing : border-box;
+}
+
+.empty {
+	display : inline-block;
+	background-color : black;
+	padding : 0px;
+	border : 2px solid white;
+	width : 16px;
+	height : 16px;
+	text-align: center;
+	vertical-align: middle;
+	box-sizing : border-box;
+}
+
+.snake {
+	display : inline-block;
+	background-color : green;
+	padding : 0px;
+	border : 2px solid white;
+	width : 16px;
+	height : 16px;
+	text-align: center;
+	vertical-align: middle;
+	box-sizing : border-box;
+}
+
+
+.apple {
+	display : inline-block;
+	background-color : red;
+	padding : 2px;
+	width : 16px;
+	height : 16px;
+	text-align: center;
+	vertical-align: middle;
+	box-sizing : border-box;
+}

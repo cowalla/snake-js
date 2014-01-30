@@ -20,7 +20,7 @@
 	}
 	
 
-	View.FPS = 4;
+	View.FPS = 10;
 
 	View.prototype.start = function() {
 		this.board = new Snakes.Board();
